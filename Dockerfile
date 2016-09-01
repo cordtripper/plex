@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.18
-MAINTAINER needo <needo@superhero.org>
+MAINTAINER cordtripper
 #Based on the work of Eric Schultz <eric@startuperic.com>
 #Thanks to Tim Haak <tim@haak.co.uk>
 ENV DEBIAN_FRONTEND noninteractive
